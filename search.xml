@@ -8,13 +8,18 @@
 </blockquote>
 <p><img src="/img/post/baidu_home.png" alt="图片加载失败"></p>
 <p>这种实现用Python实现是最简单的,所以我决定用Python来实现<br>实现很简单,调用selenium来完成自动化<br>首先我们只需要输入你要搜索的内容,Python会自动帮你搜索<br>这看起来是不是很方便?</p>
-<p>‘’’ python<br>from selenium import webdriver<br>from selenium.webdriver.common.keys import Keys</p>
-<p>browser = webdriver.Chrome()<br>browser.get(‘<a href="https://www.baidu.com&/#39;">https://www.baidu.com&#39;</a>)<br>input = browser.find_element(‘id’, ‘kw’)<br>input.send_keys(‘百度怎么用？’)<br>input.send_keys(Keys.ENTER)<br>‘’’</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> selenium <span class="keyword">import</span> webdriver</span><br><span class="line"><span class="keyword">from</span> selenium.webdriver.common.keys <span class="keyword">import</span> Keys</span><br><span class="line"></span><br><span class="line">browser = webdriver.Chrome()</span><br><span class="line">browser.get(<span class="string">&#x27;https://www.baidu.com&#x27;</span>)</span><br><span class="line"><span class="built_in">input</span> = browser.find_element(<span class="string">&#x27;id&#x27;</span>, <span class="string">&#x27;kw&#x27;</span>)</span><br><span class="line"><span class="built_in">input</span>.send_keys(<span class="string">&#x27;百度怎么用？&#x27;</span>)</span><br><span class="line"><span class="built_in">input</span>.send_keys(Keys.ENTER)</span><br></pre></td></tr></table></figure>
+
 <p>倒数第二行就是要搜索的内容,改写即可<br>这脚本只支持Google游览器,如果要支持其他游览器改写第四行’Chrome’为你想要支持的游览器</p>
 <blockquote>
 <p>注意: 首字母大写</p>
 </blockquote>
-<p>要跑这个脚本肯定是要一些环境的<a href="https://blog.csdn.net/zhoukeguai/article/details/113247342">Google驱动安装教程</a><br>‘’’ bash<br>pip3 install selenium<br>‘’’<br>跟着跑就是了,如果编译成二进制文件,具体咋编译用上面的方法去百度吧!</p>
+<p>要跑这个脚本肯定是要一些环境的<br><a href="https://blog.csdn.net/zhoukeguai/article/details/113247342">Google驱动安装教程</a><br><a href="https://blog.csdn.net/zhoukeguai/article/details/113247342">Python安装教程</a></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip3 install selenium</span><br></pre></td></tr></table></figure>
+<p>跟着跑就是了,如果编译成二进制文件,具体咋编译用上面的方法去百度吧!</p>
+<blockquote>
+<p>要是看这个教程还是不会用,我这边提供链接<br><a href="https://jingyan.baidu.com/article/d3b74d64ed932d1f76e60969.html">百度使用方法</a><br><a href="https://www.jianshu.com/p/34419342976d/">高效使用百度方法</a><br>要是还是不会怎么办,废了吧</p>
+</blockquote>
 ]]></content>
   </entry>
 </search>
