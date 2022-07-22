@@ -22,4 +22,42 @@
 </blockquote>
 ]]></content>
   </entry>
+  <entry>
+    <title>NChat-Cli聊天服务</title>
+    <url>/2022/07/22/NChat-Cli%E8%81%8A%E5%A4%A9%E6%9C%8D%E5%8A%A1/</url>
+    <content><![CDATA[<h1 id="NChat"><a href="#NChat" class="headerlink" title="NChat"></a>NChat</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Cli chat service, support multi-room chat.</span><br><span class="line">命令行聊天服务, 支持多房间交流.</span><br></pre></td></tr></table></figure>
+<p><a href="https://github.com/naucye/NChat">项目地址Github</a><br><a href="https://gitee.com/naucye/NChat">项目地址Gitee</a></p>
+<hr>
+<h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/naucye/NChat.git</span><br><span class="line"></span><br><span class="line"><span class="built_in">cd</span> ./NChat</span><br><span class="line"></span><br><span class="line">// 启动服务端</span><br><span class="line">node server.js</span><br><span class="line"></span><br><span class="line">//启动客户端</span><br><span class="line">node client.js</span><br></pre></td></tr></table></figure>
+<h2 id="client-js使用"><a href="#client-js使用" class="headerlink" title="client.js使用"></a>client.js使用</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">使用: node client.js [操作符]</span><br><span class="line"></span><br><span class="line">操作符:</span><br><span class="line">  -n      添加用户名</span><br><span class="line">  -id     添加房间号</span><br><span class="line">  -c      向指定房间号发送信息</span><br><span class="line">  -v      获取版本号</span><br><span class="line">  --help  获取帮助信息</span><br></pre></td></tr></table></figure>
+
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><p><video src="/video/nchat.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video></p>
+<h2 id="一切开发旨在学习，请勿用于非法用途"><a href="#一切开发旨在学习，请勿用于非法用途" class="headerlink" title="一切开发旨在学习，请勿用于非法用途"></a>一切开发旨在学习，请勿用于非法用途</h2><ul>
+<li>  本项目保证永久开源，欢迎提交 PR，但是请不要提交用于非法用途的功能。</li>
+<li>  如果某功能被大量运用于非法用途或严重侵害插件使用者权益，那么该功能将会被移除。</li>
+<li>  本模块完全免费开源, 近期发现模块倒卖现象严重,请勿上当</li>
+<li>  鉴于项目的特殊性，开发团队可能在任何时间<strong>停止更新</strong>或<strong>删除项目</strong></li>
+</ul>
+<h3 id="许可证"><a href="#许可证" class="headerlink" title="许可证"></a>许可证</h3><ul>
+<li>  <a href="%5Bhttps://github.com/naucye/NChat/blob/main/LICENSE%5D(https://github.com/naucye/NChat/blob/main/LICENSE)">GPL 3.0</a></li>
+</ul>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">版权所有©2022 naucye &lt;naucye@naucy.top, naucye@qq.com, naucye@163.com&gt;</span><br><span class="line"></span><br><span class="line">允许在遵守 GPL 3.0 协议的同时，复制和分发此协议文档的逐字记录副本，且允许对其进行更改，但必须保留其版权信息与原作者。如果您提出申请特殊权限，协议作者可在其口 头或书面授予任何人任何但不包括以盈利为目的的使用本协议的权利。</span><br><span class="line"></span><br><span class="line">请务必仔细阅读和理解通用许可协议书中规定的所有权利和限制。在使用前，您需要仔细阅读并决定接受或不接受本协议的条款。除非或直至您接受本协议的条款，否则本作品及其相关副本、相关程序代码或相关资源不得在您的任何终端上下载、安装或使用。</span><br><span class="line"></span><br><span class="line">您一旦下载、使用本作品及其相关副本、相关程序代码或相关资源，即表示您同意接受本协议各项条款的约束。如您不同意本协议中的条款，您则应当立即删除本作品、附属资源及其相关源代码。</span><br><span class="line"></span><br><span class="line">本作品权利只许可使用，而不出售。</span><br></pre></td></tr></table></figure>
+
+<h2 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h2><details>
+  <summary>目前已开发功能</summary>
+
+<ol>
+<li> 多用户聊天</li>
+<li> 支持创建房间</li>
+</ol>
+</details>
+
+<h2 id="赞助"><a href="#赞助" class="headerlink" title="赞助"></a>赞助</h2><ul>
+<li>  由于项目的特殊性，我们不接受任何形式的捐赠，但是我们希望有更多的人能够参与本项目的开发</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>JavaScript</tag>
+      </tags>
+  </entry>
 </search>
