@@ -21,6 +21,9 @@
 <p>要是看这个教程还是不会用,我这边提供链接<br><a href="https://jingyan.baidu.com/article/d3b74d64ed932d1f76e60969.html">百度使用方法</a><br><a href="https://www.jianshu.com/p/34419342976d/">高效使用百度方法</a><br>要是还是不会怎么办,废了吧</p>
 </blockquote>
 ]]></content>
+      <tags>
+        <tag>Python</tag>
+      </tags>
   </entry>
   <entry>
     <title>用Socket从零开始写一个Chat-cli</title>
