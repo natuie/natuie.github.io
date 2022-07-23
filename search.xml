@@ -27,7 +27,7 @@
   </entry>
   <entry>
     <title>用Socket从零开始写一个Chat-cli</title>
-    <url>/2022/07/23/%E7%94%A8Socket%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%86%99%E4%B8%80%E4%B8%AAChat-cli/</url>
+    <url>/2022/07/23/Node.js%20%E7%94%A8Socket%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%86%99%E4%B8%80%E4%B8%AAChat-cli/</url>
     <content><![CDATA[<h2 id="Socket"><a href="#Socket" class="headerlink" title="Socket"></a>Socket</h2><p>一种独立于协议的网络编程接口，所谓套接字(Socket)，就是对网络中不同主机上的应用进程之间进行双向通信的端点的抽象。一个套接字就是网络上进程通信的一端，提供了应用层进程利用网络协议交换数据的机制。从所处的地位来讲，套接字上联应用进程，下联网络协议栈，是应用程序通过网络协议进行通信的接口，是应用程序与网络协议栈进行交互的接口。</p>
 <h2 id="Socket主要类型"><a href="#Socket主要类型" class="headerlink" title="Socket主要类型"></a>Socket主要类型</h2><ol>
 <li>流套接字(SOCK_STREAM)<br>流套接字用于提供面向连接、可靠的数据传输服务。该服务将保证数据能够实现无差错、无重复送，并按顺序接收。流套接字之所以能够实现可靠的数据服务，原因在于其使用了传输控制协议，即TCP(The Transmission Control Protocol)协议。</li>
