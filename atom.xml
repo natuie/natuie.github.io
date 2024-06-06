@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>知行小屋</title>
+  
+  <subtitle>追求简洁，顺其自然</subtitle>
+  <link href="https://blog.natuie.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.natuie.top/"/>
+  <updated>2024-06-06T06:53:59.942Z</updated>
+  <id>https://blog.natuie.top/</id>
+  
+  <author>
+    <name>Natuie</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java中的List对象复制引用问题</title>
+    <link href="https://blog.natuie.top/2024/06/06/Java%E4%B8%AD%E7%9A%84List%E5%AF%B9%E8%B1%A1%E5%A4%8D%E5%88%B6%E5%BC%95%E7%94%A8%E9%97%AE%E9%A2%98/"/>
+    <id>https://blog.natuie.top/2024/06/06/Java%E4%B8%AD%E7%9A%84List%E5%AF%B9%E8%B1%A1%E5%A4%8D%E5%88%B6%E5%BC%95%E7%94%A8%E9%97%AE%E9%A2%98/</id>
+    <published>2024-06-06T06:19:25.000Z</published>
+    <updated>2024-06-06T06:53:59.942Z</updated>
+    
+    
+    <summary type="html">Java中List对象的复制问题，包括浅拷贝和深拷贝，以及不同方法的使用方法和实例演示。</summary>
+    
+    
+    
+    <category term="Java" scheme="https://blog.natuie.top/categories/Java/"/>
+    
+    
+    <category term="问题" scheme="https://blog.natuie.top/tags/%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring整合Redis出现乱码问题</title>
+    <link href="https://blog.natuie.top/2024/06/06/Spring%E6%95%B4%E5%90%88Redis%E5%87%BA%E7%8E%B0%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98/"/>
+    <id>https://blog.natuie.top/2024/06/06/Spring%E6%95%B4%E5%90%88Redis%E5%87%BA%E7%8E%B0%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98/</id>
+    <published>2024-06-06T04:48:25.000Z</published>
+    <updated>2024-06-06T06:57:27.353Z</updated>
+    
+    
+    <summary type="html">Spring整合Redis遇到&#92;xac&#92;xed&#92;x00&#92;x05t&#92;x00&#92;x04乱码问题的解决方案以及redis-cli中文乱码解决方案</summary>
+    
+    
+    
+    <category term="Redis" scheme="https://blog.natuie.top/categories/Redis/"/>
+    
+    
+    <category term="问题" scheme="https://blog.natuie.top/tags/%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android的DSU Loader动态系统更新不显示问题</title>
+    <link href="https://blog.natuie.top/2024/06/06/Android%E7%9A%84DSU-Loader%E5%8A%A8%E6%80%81%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0%E4%B8%8D%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98/"/>
+    <id>https://blog.natuie.top/2024/06/06/Android%E7%9A%84DSU-Loader%E5%8A%A8%E6%80%81%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0%E4%B8%8D%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98/</id>
+    <published>2024-06-06T04:09:12.000Z</published>
+    <updated>2024-06-06T07:00:03.797Z</updated>
+    
+    
+    <summary type="html">Android的DSU Loader动态系统更新不显示问题解决方法。</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.natuie.top/categories/Android/"/>
+    
+    
+    <category term="问题" scheme="https://blog.natuie.top/tags/%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RealSR-NCNN-Android：图片放大工具</title>
+    <link href="https://blog.natuie.top/2024/02/07/RealSR-NCNN-Android%EF%BC%9A%E5%9B%BE%E7%89%87%E6%94%BE%E5%A4%A7%E5%B7%A5%E5%85%B7/"/>
+    <id>https://blog.natuie.top/2024/02/07/RealSR-NCNN-Android%EF%BC%9A%E5%9B%BE%E7%89%87%E6%94%BE%E5%A4%A7%E5%B7%A5%E5%85%B7/</id>
+    <published>2024-02-07T07:36:42.000Z</published>
+    <updated>2024-02-07T07:57:27.806Z</updated>
+    
+    
+    <summary type="html">RealSR-NCNN-Android 是一个简单的 Android 应用程序，它基于 Waifu2x-NCNN、SRMD-NCNN、RealCUGAN-NCNN、RealSR-NCNN 和 Real-ESRGAN、Anime4KCPP。</summary>
+    
+    
+    
+    <category term="工具" scheme="https://blog.natuie.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="RealSR" scheme="https://blog.natuie.top/tags/RealSR/"/>
+    
+    <category term="图片处理" scheme="https://blog.natuie.top/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+    
+    <category term="Android" scheme="https://blog.natuie.top/tags/Android/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nginx安装与配置</title>
+    <link href="https://blog.natuie.top/2024/02/04/Nginx%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    <id>https://blog.natuie.top/2024/02/04/Nginx%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</id>
+    <published>2024-02-04T13:12:31.000Z</published>
+    <updated>2024-02-04T14:38:39.282Z</updated>
+    
+    
+    <summary type="html">Nginx是一款轻量级、高性能的 HTTP 和反向代理服务器，同时也提供了 IMAP/POP3/SMTP 服务。它是由俄罗斯的程序员 Igor Sysoev 为了满足俄罗斯访问量极大的 Rambler.ru 站点的高负载需求而开发的。</summary>
+    
+    
+    
+    <category term="软件" scheme="https://blog.natuie.top/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Web" scheme="https://blog.natuie.top/tags/Web/"/>
+    
+    <category term="配置" scheme="https://blog.natuie.top/tags/%E9%85%8D%E7%BD%AE/"/>
+    
+    <category term="Nginx" scheme="https://blog.natuie.top/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring Boot集成JPA，看这一篇就够了</title>
+    <link href="https://blog.natuie.top/2024/02/04/Spring-Boot%E9%9B%86%E6%88%90JPA%EF%BC%8C%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86/"/>
+    <id>https://blog.natuie.top/2024/02/04/Spring-Boot%E9%9B%86%E6%88%90JPA%EF%BC%8C%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86/</id>
+    <published>2024-02-04T11:19:26.000Z</published>
+    <updated>2024-02-06T05:45:43.317Z</updated>
+    
+    
+    <summary type="html">Spring Data JPA 是 Spring Data 项目的一部分，它提供了一种简化的数据访问方式，用于与关系型数据库进行交互。它基于 Java Persistence API（JPA） 标准，并提供了一套简洁的 API 和注解，使开发人员能够通过简单的 Java 对象来表示数据库表，并通过自动生成的 SQL 语句执行常见的 CRUD 操作。Spring Data JPA 通过封装 JPA 的复杂性，简化了数据访问层的开发工作，使开发人员能够更专注于业务逻辑的实现。它还提供了丰富的查询方法的定义、分页和排序支持、事务管理等功能，使开发人员能够更方便地进行数据访问和操作。</summary>
+    
+    
+    
+    <category term="Spring Boot" scheme="https://blog.natuie.top/categories/Spring-Boot/"/>
+    
+    
+    <category term="JPA" scheme="https://blog.natuie.top/tags/JPA/"/>
+    
+    <category term="PostgreSQL" scheme="https://blog.natuie.top/tags/PostgreSQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git提交规范</title>
+    <link href="https://blog.natuie.top/2024/02/03/Git%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/"/>
+    <id>https://blog.natuie.top/2024/02/03/Git%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</id>
+    <published>2024-02-03T15:33:56.000Z</published>
+    <updated>2024-02-04T14:04:40.748Z</updated>
+    
+    
+    <summary type="html">Git提交规范是团队协作中非常重要的一环，它有助于保持代码库的整洁和易于理解。通过遵循一致的提交规范，团队成员可以快速理解每次提交的目的和更改的内容。本指南将介绍如何制定和遵循Git提交规范。</summary>
+    
+    
+    
+    <category term="Git" scheme="https://blog.natuie.top/categories/Git/"/>
+    
+    
+    <category term="Git" scheme="https://blog.natuie.top/tags/Git/"/>
+    
+    <category term="规范" scheme="https://blog.natuie.top/tags/%E8%A7%84%E8%8C%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git基本的使用指南</title>
+    <link href="https://blog.natuie.top/2024/02/03/Git%E5%9F%BA%E6%9C%AC%E7%9A%84%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
+    <id>https://blog.natuie.top/2024/02/03/Git%E5%9F%BA%E6%9C%AC%E7%9A%84%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</id>
+    <published>2024-02-03T15:33:41.000Z</published>
+    <updated>2024-06-06T04:03:04.324Z</updated>
+    
+    
+    <summary type="html">Git是一个强大的分布式版本控制系统，被广泛应用于开源项目和私人项目。它允许多个开发者协作开发同一个项目，同时记录对文件的修改历史。本指南将带您从Git的基础知识开始，逐步深入了解Git的高级功能。</summary>
+    
+    
+    
+    <category term="Git" scheme="https://blog.natuie.top/categories/Git/"/>
+    
+    
+    <category term="Git" scheme="https://blog.natuie.top/tags/Git/"/>
+    
+    <category term="指南" scheme="https://blog.natuie.top/tags/%E6%8C%87%E5%8D%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入理解RESTful风格接口的设计与应用</title>
+    <link href="https://blog.natuie.top/2024/02/03/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3RESTful%E9%A3%8E%E6%A0%BC%E6%8E%A5%E5%8F%A3%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BA%94%E7%94%A8/"/>
+    <id>https://blog.natuie.top/2024/02/03/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3RESTful%E9%A3%8E%E6%A0%BC%E6%8E%A5%E5%8F%A3%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BA%94%E7%94%A8/</id>
+    <published>2024-02-03T15:29:01.000Z</published>
+    <updated>2024-02-04T14:12:54.843Z</updated>
+    
+    
+    <summary type="html">在当今的Web开发领域，RESTful风格接口已经成为了构建可扩展、易维护的Web服务的事实标准。RESTful架构充分利用了HTTP协议的幂等性、无状态性等特点，使得接口设计更加简洁、直观。本文将详细介绍RESTful风格接口的基本概念、设计原则以及如何在实际项目中应用。</summary>
+    
+    
+    
+    <category term="风格" scheme="https://blog.natuie.top/categories/%E9%A3%8E%E6%A0%BC/"/>
+    
+    
+    <category term="规范" scheme="https://blog.natuie.top/tags/%E8%A7%84%E8%8C%83/"/>
+    
+    <category term="RESTful" scheme="https://blog.natuie.top/tags/RESTful/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>R-Studio：一款强大的数据恢复工具</title>
+    <link href="https://blog.natuie.top/2024/02/03/R-Studio%EF%BC%9A%E4%B8%80%E6%AC%BE%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%E5%B7%A5%E5%85%B7/"/>
+    <id>https://blog.natuie.top/2024/02/03/R-Studio%EF%BC%9A%E4%B8%80%E6%AC%BE%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D%E5%B7%A5%E5%85%B7/</id>
+    <published>2024-02-03T02:38:44.000Z</published>
+    <updated>2024-06-06T07:15:24.766Z</updated>
+    
+    
+    <summary type="html">在数字时代，数据丢失是一个常见且令人头疼的问题。无论是意外删除、格式化硬盘还是系统崩溃，丢失重要数据都可能导致严重的后果。幸运的是，有一款名为R-Studio的数据恢复工具可以帮助我们恢复丢失的数据。在这篇文章中，我们将探讨R-Studio的特点和功能，以及如何使用它来恢复丢失的数据。</summary>
+    
+    
+    
+    <category term="工具" scheme="https://blog.natuie.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="数据恢复" scheme="https://blog.natuie.top/tags/%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rust使用蒙特卡洛方法估算圆周率</title>
+    <link href="https://blog.natuie.top/2024/02/03/Rust%E4%BD%BF%E7%94%A8%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E6%96%B9%E6%B3%95%E4%BC%B0%E7%AE%97%E5%9C%86%E5%91%A8%E7%8E%87/"/>
+    <id>https://blog.natuie.top/2024/02/03/Rust%E4%BD%BF%E7%94%A8%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E6%96%B9%E6%B3%95%E4%BC%B0%E7%AE%97%E5%9C%86%E5%91%A8%E7%8E%87/</id>
+    <published>2024-02-03T01:48:55.000Z</published>
+    <updated>2024-02-04T14:15:58.257Z</updated>
+    
+    
+    <summary type="html">圆周率（π）是数学和物理学中一个非常重要的常数，它表示圆的周长与其直径的比例。圆周率是一个无理数，意味着它不能表示为两个整数的比例，其小数部分是无限不循环的。在计算机科学中，估算圆周率的方法有很多种，其中一种流行的方法是蒙特卡洛方法。</summary>
+    
+    
+    
+    <category term="Rust" scheme="https://blog.natuie.top/categories/Rust/"/>
+    
+    
+    <category term="算法" scheme="https://blog.natuie.top/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node.js 用Socket从零开始编写一个Chat-Cli</title>
+    <link href="https://blog.natuie.top/2024/01/31/Node-js-%E7%94%A8Socket%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AAChat-cli/"/>
+    <id>https://blog.natuie.top/2024/01/31/Node-js-%E7%94%A8Socket%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AAChat-cli/</id>
+    <published>2024-01-31T15:24:42.000Z</published>
+    <updated>2024-02-04T14:18:35.159Z</updated>
+    
+    
+    <summary type="html">Socket一种独立于协议的网络编程接口，所谓套接字(Socket)，就是对网络中不同主机上的应用进程之间进行双向通信的端点的抽象。一个套接字就是网络上进程通信的一端，提供了应用层进程利用网络协议交换数据的机制。从所处的地位来讲，套接字上联应用进程，下联网络协议栈，是应用程序通过网络协议进行通信的接口，是应用程序与网络协议栈进行交互的接口。</summary>
+    
+    
+    
+    <category term="Node.js" scheme="https://blog.natuie.top/categories/Node-js/"/>
+    
+    
+    <category term="及时通讯" scheme="https://blog.natuie.top/tags/%E5%8F%8A%E6%97%B6%E9%80%9A%E8%AE%AF/"/>
+    
+    <category term="Socket" scheme="https://blog.natuie.top/tags/Socket/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.natuie.top/2024/01/31/hello-world/"/>
+    <id>https://blog.natuie.top/2024/01/31/hello-world/</id>
+    <published>2024-01-31T13:10:44.492Z</published>
+    <updated>2024-02-04T14:20:39.895Z</updated>
+    
+    
+    <summary type="html">Welcome to Hexo This is your very first post. Check documentation(https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting(https://hexo.io/docs/troubleshooting.html) or you can ask me on GitHub(https://github.com/hexojs/hexo/issues).</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
