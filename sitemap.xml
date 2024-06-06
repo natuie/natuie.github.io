@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.natuie.top/2024/01/30/hello-world/</loc>
+    
+    <lastmod>2024-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.natuie.top/about/index.html</loc>
     
     <lastmod>2024-06-06</lastmod>
@@ -111,15 +120,6 @@
   
   <url>
     <loc>https://blog.natuie.top/2024/02/04/Nginx%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</loc>
-    
-    <lastmod>2024-02-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.natuie.top/2024/06/06/hello-world/</loc>
     
     <lastmod>2024-02-04</lastmod>
     
