@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.natuie.top/about/index.html</loc>
+    
+    <lastmod>2024-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.natuie.top/friends/index.html</loc>
     
     <lastmod>2024-06-06</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://blog.natuie.top/2024/06/06/Spring%E6%95%B4%E5%90%88Redis%E5%87%BA%E7%8E%B0%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98/</loc>
-    
-    <lastmod>2024-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.natuie.top/about/index.html</loc>
     
     <lastmod>2024-06-06</lastmod>
     
