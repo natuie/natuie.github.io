@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /js/
-Disallow: /css/
-Disallow: /img/
-Crawl-delay: 120
-Sitemap: https://blog.natuie.net/sitemap.xml
